@@ -22,7 +22,7 @@ python Xyz.py
 ```
 
 ### MENU
-![template](https://github.com/younis-dgk/Public/blob/main/Screenshot_20240831-092349.jpg)
+![template](https://github.com/younis-dgk/Public/blob/main/Screenshot_20241226-091624.jpg)
 
 # Visitors :
 
